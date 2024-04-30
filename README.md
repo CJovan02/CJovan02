@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 CS student at Faculty of Electronic Engineering in Niš
+⚡ Learning frontend, backend and gamedev
+
 <!--
 **CJovan02/CJovan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
