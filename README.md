@@ -1,18 +1,24 @@
-### Hi there 👋
+Hi, I'm Jovan.
 
-🔭 CS student at Faculty of Electronic Engineering in Niš
+Final year Computer Science student focused on .NET, React and mobile development with Flutter.
 
-<!--
-**CJovan02/CJovan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently building web applications and working on university projects.
 
-Here are some ideas to get you started:
+## My best work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Flashpedz - Freelance flashcard mobile application built with Flutter and Firebase.
+- Emerx - E-commerce platform developed with .NET, React and MongoDB.
+- MajstorHUB - UpWork inspired freelance platform for construction workers, built with .NET, React and MongoDB.
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,dotnet,react,ts,flutter,mongodb,firebase)](https://skillicons.dev)
+
+## Currently Learning
+
+- Advanced .NET
+- Software Architecture
+- Docker
+
+## Stats
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=cjovan02)](https://github.com/anuraghazra/github-readme-stats)
