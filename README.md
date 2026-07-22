@@ -11,7 +11,7 @@ Currently building web applications and working on university projects.
 - [MajstorHUB](https://github.com/CJovan02/majstor-hub) - Marketplace platform connecting homeowners with construction professionals. Built with .NET, React and MongoDB.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=docker,linux,dotnet,react,ts,flutter,mongodb,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,dotnet,react,ts,flutter,postgres,mongodb,firebase)](https://skillicons.dev)
 
 ## Currently Learning
 
