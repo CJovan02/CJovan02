@@ -20,10 +20,9 @@ Currently building web applications and working on university projects.
 - Docker
 
 ## Stats
+[![Stats](https://github-stats-extended-frontend-delta-wine.vercel.app/api?username=CJovan02&hide_title=true&show_icons=true&include_all_commits=true&theme=nord)](https://github-stats-extended-frontend-delta-wine.vercel.app/api?username=CJovan02&hide_title=true&show_icons=true&include_all_commits=true&theme=midnight-purple)
 
-[![Stats](https://github-readme-stats-ten-henna-29.vercel.app/api?username=CJovan02&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-ten-henna-29.vercel.app/api/top-langs/?username=CJovan02&theme=nord&layout=compact&exclude_repo=racunarska-grafika)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended-frontend-delta-wine.vercel.app/api/top-langs?username=CJovan02&langs_count=4&theme=nord&exclude_repo=racunarska-grafika&layout=compact)](https://github-stats-extended-frontend-delta-wine.vercel.app/api/top-langs?username=CJovan02&langs_count=4&theme=midnight-purple&exclude_repo=racunarska-grafika&layout=compact)
 
 ## Contact Me
 
